@@ -1,0 +1,9 @@
+http://www2.technologyreview.com/rss/feeds/mainrss.aspx
+https://www.phoronix.com/rss.php
+https://www.rollingstone.com/movies/rss
+https://pitchfork.com/rss/reviews/best/albums/
+https://www.rollingstone.com/music/rss
+https://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss
+https://www.rollingstone.com/rss
+https://www.theverge.com/rss/index.xml
+https://www.rollingstone.com/rss
