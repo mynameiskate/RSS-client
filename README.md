@@ -7,9 +7,9 @@ and gives an opportunity to read articles either from source or from HTML-pages,
 The client also supports the following functions: 
 sorting feeds by their categories, storing articles as 'Favourites', sharing news via social media.
 The algorithm for feed generation is pretty simple:
--> Get XML document via HTTP -> 
--> Parse it into one of the supported versions ->
--> Sort it into one of the categories along the way ->
--> Repeat for every website -> 
--> Generate HTML representation of the whole feed -> 
+-> Get XML document via HTTP 
+-> Parse it into one of the supported versions 
+-> Sort it into one of the categories along the way 
+-> Repeat for every website 
+-> Generate HTML representation of the whole feed 
 -> Voila
